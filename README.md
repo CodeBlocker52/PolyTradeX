@@ -79,7 +79,7 @@ Prediction markets like Polymarket offer lucrative arbitrage opportunities that 
 ### Core Value Propositions
 
 1. **Real-Time Detection Engine**
-   - Scans 500+ active Polymarket markets per second
+   - Scans 100+ active Polymarket markets per second
    - AI-powered opportunity prediction
    - Multi-strategy arbitrage identification
    - Cross-market correlation analysis
